@@ -5,7 +5,8 @@
   "main": "dist/bundle.js",
   "scripts": {
     "test": " standard --fix",
-    "dev": "webpack-dev-server --open"
+    "dev": "webpack-dev-server --open",
+    "build": "webpack"
   },
   "keywords": [],
   "author": "Kevin",
