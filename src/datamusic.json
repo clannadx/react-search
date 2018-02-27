@@ -1,0 +1,1450 @@
+{
+    "count": 20,
+    "start": 0,
+    "total": 10328,
+    "musics": [
+        {
+            "rating": {
+                "max": 10,
+                "average": "8.2",
+                "numRaters": 72,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "AAA"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s2721504.jpg",
+            "tags": [
+                {
+                    "count": 33,
+                    "name": "AAA"
+                },
+                {
+                    "count": 14,
+                    "name": "J-pop"
+                },
+                {
+                    "count": 11,
+                    "name": "日本"
+                },
+                {
+                    "count": 5,
+                    "name": "jpop"
+                },
+                {
+                    "count": 4,
+                    "name": "J-Pop"
+                },
+                {
+                    "count": 3,
+                    "name": "avex"
+                },
+                {
+                    "count": 3,
+                    "name": "2007"
+                },
+                {
+                    "count": 2,
+                    "name": "组合"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/2266597/",
+            "attrs": {
+                "publisher": [
+                    "Avex Trax"
+                ],
+                "singer": [
+                    "AAA"
+                ],
+                "version": [
+                    "CD+DVD",
+                    "Limited Edition"
+                ],
+                "pubdate": [
+                    "2007-01-01"
+                ],
+                "title": [
+                    "ALL"
+                ],
+                "media": [
+                    "Audio CD"
+                ],
+                "tracks": [
+                    "1. ハレルヤ\n2. ハリケーン・リリ，ボストン・マリ (Original Long version)\n3. Let it beat!\n4. Samurai heart -侍魂-\n5. チューインガム\n6. ソウルエッジボーイ\n7. キモノジェットガール\n8. \"Q\"\n9. Champagne Gold\n10. Winter lander!!\n11. Shalala キボウの歌\n12. Us\n13. ミカンセイ"
+                ],
+                "discs": [
+                    "2"
+                ]
+            },
+            "title": "ALL",
+            "alt": "https://music.douban.com/subject/2266597/",
+            "id": "2266597"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "8.5",
+                "numRaters": 22,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "Colour Haze"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img1.doubanio.com/spic/s3146867.jpg",
+            "tags": [
+                {
+                    "count": 7,
+                    "name": "Psychedelic"
+                },
+                {
+                    "count": 3,
+                    "name": "stoner-rock"
+                },
+                {
+                    "count": 3,
+                    "name": "psychedelic-rock"
+                },
+                {
+                    "count": 3,
+                    "name": "PsychedelicRock"
+                },
+                {
+                    "count": 2,
+                    "name": "德国"
+                },
+                {
+                    "count": 2,
+                    "name": "StonerRock"
+                },
+                {
+                    "count": 2,
+                    "name": "Stoner"
+                },
+                {
+                    "count": 2,
+                    "name": "2008"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/3119052/",
+            "attrs": {
+                "publisher": [
+                    "Elektrohasch Records"
+                ],
+                "singer": [
+                    "Colour Haze"
+                ],
+                "version": [
+                    "Import"
+                ],
+                "pubdate": [
+                    "2008-11-18"
+                ],
+                "title": [
+                    "All"
+                ],
+                "media": [
+                    "Audio CD"
+                ],
+                "tracks": [
+                    "1 Silent 7:22\n2 Moon 4:56\n3 Turns 4:08\n4 Lights 8:25\n5 If 3:31\n6 Stars 3:24\n7 All 14:49\n8 Fall 9:55\n9 One 4:39\n10 Remains 4:09"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "All",
+            "alt": "https://music.douban.com/subject/3119052/",
+            "id": "3119052"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "6.9",
+                "numRaters": 19,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "AAA"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s3839415.jpg",
+            "tags": [
+                {
+                    "count": 10,
+                    "name": "AAA"
+                },
+                {
+                    "count": 5,
+                    "name": "J-Pop"
+                },
+                {
+                    "count": 2,
+                    "name": "avex"
+                },
+                {
+                    "count": 2,
+                    "name": "Album"
+                },
+                {
+                    "count": 1,
+                    "name": "國度。"
+                },
+                {
+                    "count": 1,
+                    "name": "♥J.Group(M)"
+                },
+                {
+                    "count": 1,
+                    "name": "☆J-Pop"
+                },
+                {
+                    "count": 1,
+                    "name": "Vincent"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/3795070/",
+            "attrs": {
+                "publisher": [
+                    "エイベックス・トラックス"
+                ],
+                "singer": [
+                    "AAA"
+                ],
+                "pubdate": [
+                    "2007-01-01"
+                ],
+                "title": [
+                    "ALL"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "ハレルヤ",
+                    "ハリケーン・リリ,ボストン・マリ(Original long version)",
+                    "Let it beat!",
+                    "Samurai heart-侍魂-",
+                    "チューインガム",
+                    "ソウルエッジボーイ",
+                    "キモノジェットガール",
+                    "“Q”",
+                    "Champagne Gold",
+                    "Winter lander!!",
+                    "Shalala キボウの歌",
+                    "Us",
+                    "ミカンセイ"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "ALL",
+            "alt": "https://music.douban.com/subject/3795070/",
+            "id": "3795070"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 4,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "Descendents"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img1.doubanio.com/spic/s2971618.jpg",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "Punk"
+                },
+                {
+                    "count": 1,
+                    "name": "Pop-Punk"
+                },
+                {
+                    "count": 1,
+                    "name": "HardcorePunk"
+                },
+                {
+                    "count": 1,
+                    "name": "1023"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/3014062/",
+            "attrs": {
+                "publisher": [
+                    "Sst Records"
+                ],
+                "singer": [
+                    "Descendents"
+                ],
+                "pubdate": [
+                    "1990-10-17"
+                ],
+                "title": [
+                    "All"
+                ],
+                "media": [
+                    "LP Record"
+                ],
+                "tracks": [
+                    "All",
+                    "Coolidge",
+                    "No, All!",
+                    "Van",
+                    "Cameage",
+                    "Impressions",
+                    "Iceman",
+                    "Uranus",
+                    "Jealous of the World",
+                    "Clean Sheets",
+                    "All-O-Gistics",
+                    "Schizophrenia"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "All",
+            "alt": "https://music.douban.com/subject/3014062/",
+            "id": "3014062"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 6,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "Blackbird Blackbird"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s27307560.jpg",
+            "tags": [
+                {
+                    "count": 3,
+                    "name": "Electronic"
+                },
+                {
+                    "count": 2,
+                    "name": "2012"
+                },
+                {
+                    "count": 1,
+                    "name": "美国"
+                },
+                {
+                    "count": 1,
+                    "name": "Indie"
+                },
+                {
+                    "count": 1,
+                    "name": "Electronica"
+                },
+                {
+                    "count": 1,
+                    "name": "BlackbirdBlackbird"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/25910302/",
+            "attrs": {
+                "publisher": [
+                    "Lavish Habits"
+                ],
+                "singer": [
+                    "Blackbird Blackbird"
+                ],
+                "pubdate": [
+                    "2012-09-25"
+                ],
+                "title": [
+                    "All"
+                ],
+                "media": [
+                    "数字(Digital)"
+                ],
+                "tracks": [
+                    "01 All\n02 Keep It Up (Distal Remix)"
+                ],
+                "version": [
+                    "EP"
+                ]
+            },
+            "title": "All",
+            "alt": "https://music.douban.com/subject/25910302/",
+            "id": "25910302"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 2,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "All"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img1.doubanio.com/spic/s4093997.jpg",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "Punk"
+                },
+                {
+                    "count": 1,
+                    "name": "Pop-Punk"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/4188739/",
+            "attrs": {
+                "publisher": [
+                    "Owned & Operated"
+                ],
+                "singer": [
+                    "All"
+                ],
+                "discs": [
+                    "1"
+                ],
+                "pubdate": [
+                    "1999-02-23"
+                ],
+                "title": [
+                    "All"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "Crazy",
+                    "Million Bucks",
+                    "Skin Deep",
+                    "She's My Ex",
+                    "Right",
+                    "Scary Sad",
+                    "Postage",
+                    "Shreen",
+                    "Frog",
+                    "Original Me",
+                    "Simple Things",
+                    "Pretty Little Girl",
+                    "Nothin'",
+                    "Breakin' Up",
+                    "Minute",
+                    "Just Like Them",
+                    "Dot",
+                    "Long Distance",
+                    "Mary",
+                    "Self-Righteous",
+                    "Just Perfect",
+                    "Educated Idiot"
+                ],
+                "version": [
+                    "Best of",
+                    "Import",
+                    "from US"
+                ]
+            },
+            "title": "All",
+            "alt": "https://music.douban.com/subject/4188739/",
+            "id": "4188739"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 2,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "Asvara"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img1.doubanio.com/spic/s26294459.jpg",
+            "tags": [
+                {
+                    "count": 2,
+                    "name": "Ambient"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/23860849/",
+            "attrs": {
+                "publisher": [
+                    "frsts"
+                ],
+                "singer": [
+                    "Asvara"
+                ],
+                "discs": [
+                    "1"
+                ],
+                "pubdate": [
+                    "2013-04-09"
+                ],
+                "title": [
+                    "All"
+                ],
+                "media": [
+                    "数字(Digital)"
+                ],
+                "tracks": [
+                    "01. Intro/ First Talk\n02. Together Maker\n03. The Second Turning\n04. Kaliya Naag\n05. Rebellion Dogs\n06. On the Narrows\n07. My Tears Had No Roots\n08. A Paler Blue Dot\n09. Paragate"
+                ],
+                "version": [
+                    "专辑"
+                ]
+            },
+            "title": "All",
+            "alt": "https://music.douban.com/subject/23860849/",
+            "id": "23860849"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 1,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "James Darren"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img1.doubanio.com/spic/s3842497.jpg",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "Good-Old-Times"
+                },
+                {
+                    "count": 1,
+                    "name": "60s"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/3802758/",
+            "attrs": {
+                "publisher": [
+                    "Collectables"
+                ],
+                "singer": [
+                    "James Darren"
+                ],
+                "pubdate": [
+                    "2005-04-26"
+                ],
+                "title": [
+                    "All"
+                ],
+                "media": [
+                    "Audio CD"
+                ],
+                "tracks": [
+                    "GEORGY GIRL",
+                    "A MAN AND A WOMAN",
+                    "MY CUP RUNNETH OVER",
+                    "THIS IS MY SONG",
+                    "I MISS YOU So",
+                    "ALL",
+                    "BORN FREE",
+                    "LADY",
+                    "SINCE I DON'T HAVE YOU",
+                    "SUNNY"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "All",
+            "alt": "https://music.douban.com/subject/3802758/",
+            "id": "3802758"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "6.5",
+                "numRaters": 12,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "All"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s3885593.jpg",
+            "tags": [
+                {
+                    "count": 4,
+                    "name": "Pop-Punk"
+                },
+                {
+                    "count": 4,
+                    "name": "2000"
+                },
+                {
+                    "count": 1,
+                    "name": "Punk"
+                },
+                {
+                    "count": 1,
+                    "name": "All"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/3077237/",
+            "attrs": {
+                "publisher": [
+                    "Epitaph / Ada"
+                ],
+                "singer": [
+                    "All"
+                ],
+                "pubdate": [
+                    "2000-06-06"
+                ],
+                "title": [
+                    "Problematic"
+                ],
+                "media": [
+                    "Audio CD"
+                ],
+                "tracks": [
+                    "Carry You",
+                    "She Broke My Dick",
+                    "Better Than That",
+                    "www.sara",
+                    "Roir",
+                    "What Are You For?",
+                    "Stupid Kind of Love",
+                    "Alive",
+                    "Real People",
+                    "Lock 'Em Away",
+                    "Teresa",
+                    "I Want Out",
+                    "Crucifiction",
+                    "Skin",
+                    "Nothin' to Live For",
+                    "Never Too",
+                    "Make Believe",
+                    "Drive Away"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "Problematic",
+            "alt": "https://music.douban.com/subject/3077237/",
+            "id": "3077237"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "6.5",
+                "numRaters": 14,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "All"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img1.doubanio.com/spic/s3093628.jpg",
+            "tags": [
+                {
+                    "count": 7,
+                    "name": "Punk"
+                },
+                {
+                    "count": 2,
+                    "name": "Pop-Punk"
+                },
+                {
+                    "count": 2,
+                    "name": "1998"
+                },
+                {
+                    "count": 1,
+                    "name": "Hardcore-Punk"
+                },
+                {
+                    "count": 1,
+                    "name": "Epitaph"
+                },
+                {
+                    "count": 1,
+                    "name": "DM"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/3077226/",
+            "attrs": {
+                "publisher": [
+                    "Epitaph / Ada"
+                ],
+                "singer": [
+                    "All"
+                ],
+                "pubdate": [
+                    "1998-05-05"
+                ],
+                "title": [
+                    "Mass Nerder"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "1. World's On Heroin\n2. I'll Get There\n3. Life On The Road\n4. Fairweather Friend\n5. Perfection\n6. Greedy\n7. Until I Say So\n8. Think The World\n9. Honey Peeps\n10. Refrain\n11. Silly Me\n12. Romantic Junkie\n13. Vida Blue\n14. Until Then\n15. Good As My Word\n16. Silence"
+                ]
+            },
+            "title": "Mass Nerder",
+            "alt": "https://music.douban.com/subject/3077226/",
+            "id": "3077226"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 8,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "All"
+                },
+                {
+                    "name": "The Descendents"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s3657772.jpg",
+            "tags": [
+                {
+                    "count": 2,
+                    "name": "2001"
+                },
+                {
+                    "count": 1,
+                    "name": "美国"
+                },
+                {
+                    "count": 1,
+                    "name": "Punk"
+                },
+                {
+                    "count": 1,
+                    "name": "Live"
+                },
+                {
+                    "count": 1,
+                    "name": "Epitaph"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/3014061/",
+            "attrs": {
+                "publisher": [
+                    "Epitaph / Ada"
+                ],
+                "singer": [
+                    "All",
+                    "The Descendents"
+                ],
+                "discs": [
+                    "1"
+                ],
+                "pubdate": [
+                    "2001-09-11"
+                ],
+                "title": [
+                    "Live Plus One"
+                ],
+                "media": [
+                    "Audio CD"
+                ],
+                "tracks": [
+                    "Fairweather Friend - All",
+                    "Skin Deep - All",
+                    "Can't Say - All",
+                    "She Broke My Dick - All",
+                    "Until I Say So - All",
+                    "Crucifiction - All",
+                    "Breakin' Up - All",
+                    "Better Than That - All",
+                    "Bubblegum - All",
+                    "Honey Peeps - All",
+                    "She's My Ex - All",
+                    "World's on Heroin - All",
+                    "Birds - All",
+                    "I Want Out - All",
+                    "Educated Idiot - All",
+                    "Birthday Iou - All",
+                    "Carnage - All",
+                    "'Cause - All",
+                    "Self Righteous - All",
+                    "Teresa - All",
+                    "Hate to Love - All",
+                    "Carry You - All",
+                    "My Dad Sucks - Descendents",
+                    "I'm the One - Descendents",
+                    "Hope - Descendents",
+                    "Thank You - Descendents",
+                    "M-16 - Descendents",
+                    "Mr. Bass - Descendents",
+                    "Weinerschnitzel - Descendents",
+                    "Original Me - Descendents",
+                    "I Like Food - Descendents",
+                    "Silly Girl - Descendents",
+                    "Coffee Mug - Descendents",
+                    "Get the Time - Descendents",
+                    "Myage - Descendents",
+                    "Cheer - Descendents",
+                    "We - Descendents",
+                    "Everything Sux - Descendents",
+                    "This Space - Descendents",
+                    "Van - Descendents",
+                    "Bikeage - Descendents",
+                    "All-O-Gistics - Descendents",
+                    "Catalina - Descendents"
+                ],
+                "version": [
+                    "Extra tracks",
+                    "Live"
+                ]
+            },
+            "title": "Live Plus One",
+            "alt": "https://music.douban.com/subject/3014061/",
+            "id": "3014061"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 6,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "All"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s4712250.jpg",
+            "tags": [
+                {
+                    "count": 4,
+                    "name": "Punk"
+                },
+                {
+                    "count": 3,
+                    "name": "Pop-Punk"
+                },
+                {
+                    "count": 1,
+                    "name": "美国"
+                },
+                {
+                    "count": 1,
+                    "name": "1994"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/3077241/",
+            "attrs": {
+                "publisher": [
+                    "Cruz"
+                ],
+                "singer": [
+                    "All"
+                ],
+                "discs": [
+                    "1"
+                ],
+                "pubdate": [
+                    "1994-08-16"
+                ],
+                "title": [
+                    "Breaking Things"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "1.Original Me\n2.Right\n3.Shreen\n4.Cause\n5.Bail\n6.Excuses\n7.Strip Bar\n8.Horizontal\n9.Guilty\n10.Birthday IOU\n11.Rosco\n12.Stick\n13.Crucified\n14.Politics"
+                ],
+                "version": [
+                    "Studio"
+                ]
+            },
+            "title": "Breaking Things",
+            "alt": "https://music.douban.com/subject/3077241/",
+            "id": "3077241"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 6,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "All"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img1.doubanio.com/spic/s1955357.jpg",
+            "tags": [
+                {
+                    "count": 2,
+                    "name": "Skate-Punk"
+                },
+                {
+                    "count": 2,
+                    "name": "Punk"
+                },
+                {
+                    "count": 1,
+                    "name": "ThrashMetal"
+                },
+                {
+                    "count": 1,
+                    "name": "Pop-Punk"
+                },
+                {
+                    "count": 1,
+                    "name": "1991"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/1947671/",
+            "attrs": {
+                "publisher": [
+                    "Cruz Records"
+                ],
+                "singer": [
+                    "All"
+                ],
+                "pubdate": [
+                    "1991-07-01"
+                ],
+                "title": [
+                    "Allroy Sez"
+                ],
+                "media": [
+                    "Audio CD"
+                ],
+                "tracks": [
+                    "Pretty Little Girl",
+                    "Hooidge",
+                    "Sex In The Way",
+                    "Alfredo's",
+                    "Sugar & Spice",
+                    "Allthymn",
+                    "Just Perfect",
+                    "Paper Tiger",
+                    "Auto Wreck",
+                    "#10 (Wet)",
+                    "A Muse",
+                    "Don Quixote"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "Allroy Sez",
+            "alt": "https://music.douban.com/subject/1947671/",
+            "id": "1947671"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 4,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "All"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img1.doubanio.com/spic/s3093618.jpg",
+            "tags": [
+                {
+                    "count": 2,
+                    "name": "Punk"
+                },
+                {
+                    "count": 2,
+                    "name": "Pop-Punk"
+                },
+                {
+                    "count": 1,
+                    "name": "美国"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/3077222/",
+            "attrs": {
+                "publisher": [
+                    "Interscope Records"
+                ],
+                "tracks": [
+                    "Self-Righteous\nMillion Bucks\nUncle Critic\nMiranda\nNot Easy\nLong Distance\nStalker\nButton It\nThis World\nGettin' There\nBreakin' Up\nOn Foot\nBroken\nHetero\nBlack Sky"
+                ],
+                "singer": [
+                    "All"
+                ],
+                "pubdate": [
+                    "1995-01-01"
+                ],
+                "title": [
+                    "Pummel"
+                ]
+            },
+            "title": "Pummel",
+            "alt": "https://music.douban.com/subject/3077222/",
+            "id": "3077222"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 4,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "All"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img1.doubanio.com/spic/s4693097.jpg",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "Ambient"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/6073157/",
+            "attrs": {
+                "publisher": [
+                    "Kompakt"
+                ],
+                "singer": [
+                    "All"
+                ],
+                "pubdate": [
+                    "2001"
+                ],
+                "title": [
+                    "Alltag 1 - 4"
+                ],
+                "media": [
+                    "黑胶"
+                ],
+                "tracks": [
+                    "A1\t \tAlltag 1\nA2\t \tAlltag 2\nB1\t \tAlltag 3\nB2\t \tAlltag 4"
+                ]
+            },
+            "title": "Alltag 1 - 4",
+            "alt": "https://music.douban.com/subject/6073157/",
+            "id": "6073157"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 2,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "All"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img1.doubanio.com/spic/s9025468.jpg",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "Punk"
+                },
+                {
+                    "count": 1,
+                    "name": "Pop-Punk"
+                },
+                {
+                    "count": 1,
+                    "name": "1991"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/10581865/",
+            "attrs": {
+                "publisher": [
+                    "Cruz Records"
+                ],
+                "singer": [
+                    "All"
+                ],
+                "pubdate": [
+                    "1991-07-01"
+                ],
+                "title": [
+                    "Allroy's Revenge"
+                ],
+                "media": [
+                    "Audio CD"
+                ],
+                "tracks": [
+                    "Gnutheme",
+                    "Fool",
+                    "Check One",
+                    "Scary Sad",
+                    "Man-O-Steel",
+                    "Box",
+                    "Copping Z",
+                    "Hot Rod Lincoln",
+                    "She's My Ex",
+                    "Bubblegum",
+                    "Mary",
+                    "Net",
+                    "No Traffic",
+                    "Carnage"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "Allroy's Revenge",
+            "alt": "https://music.douban.com/subject/10581865/",
+            "id": "10581865"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 2,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "All"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s9025472.jpg",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "Punk"
+                },
+                {
+                    "count": 1,
+                    "name": "Pop-Punk"
+                },
+                {
+                    "count": 1,
+                    "name": "1991"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/10581870/",
+            "attrs": {
+                "publisher": [
+                    "Cruz Records"
+                ],
+                "singer": [
+                    "All"
+                ],
+                "pubdate": [
+                    "1991-07-01"
+                ],
+                "title": [
+                    "Allroy Saves"
+                ],
+                "media": [
+                    "Audio CD"
+                ],
+                "tracks": [
+                    "Educated Idiot",
+                    "Just Like Them",
+                    "Prison",
+                    "Just Living",
+                    "Freaky",
+                    "Frog",
+                    "Simple Things",
+                    "Cyclops",
+                    "Ratchet",
+                    "Sum",
+                    "Crawdad",
+                    "Explorador"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "Allroy Saves",
+            "alt": "https://music.douban.com/subject/10581870/",
+            "id": "10581870"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 3,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "All"
+                },
+                {
+                    "name": "The Descendents"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s3896864.jpg",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "Punk"
+                },
+                {
+                    "count": 1,
+                    "name": "Pop-Punk"
+                },
+                {
+                    "count": 1,
+                    "name": "Live"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/3877884/",
+            "attrs": {
+                "publisher": [
+                    "Import"
+                ],
+                "singer": [
+                    "All",
+                    "The Descendents"
+                ],
+                "version": [
+                    "Best of",
+                    "Double CD",
+                    "Live",
+                    "Import",
+                    "from US"
+                ],
+                "pubdate": [
+                    "2001-09-20"
+                ],
+                "title": [
+                    "Live Plus One"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "Fairweather Friend",
+                    "Skin Deep",
+                    "Can't Say",
+                    "She Broke My Dick",
+                    "Until I Say So",
+                    "Crucifiction",
+                    "Breakin' Up",
+                    "Better Than That",
+                    "Bubblegum",
+                    "Honey Peeps",
+                    "She's My Ex",
+                    "World's on Heroin",
+                    "Birds",
+                    "I Want Out",
+                    "Educated Idiot",
+                    "Birthday Iou",
+                    "Carnage",
+                    "'Cause",
+                    "Self Righteous",
+                    "Teresa",
+                    "Hate to Love",
+                    "Carry You",
+                    "My Dad Sucks",
+                    "I'm the One",
+                    "Hope",
+                    "Thank You",
+                    "M-16",
+                    "Mr. Bass",
+                    "Weinerschnitzel",
+                    "Original Me",
+                    "I Like Food",
+                    "Silly Girl",
+                    "Coffee Mug",
+                    "Get the Time",
+                    "Myage",
+                    "Cheer",
+                    "We",
+                    "Everything Sux",
+                    "This Space",
+                    "Van",
+                    "Bikeage",
+                    "All-O-Gistics",
+                    "Catalina"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "Live Plus One",
+            "alt": "https://music.douban.com/subject/3877884/",
+            "id": "3877884"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 1,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "All"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s9035166.jpg",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "Punk"
+                },
+                {
+                    "count": 1,
+                    "name": "Pop-Punk"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/10590546/",
+            "attrs": {
+                "publisher": [
+                    "Cruz Records"
+                ],
+                "singer": [
+                    "All"
+                ],
+                "discs": [
+                    "1"
+                ],
+                "pubdate": [
+                    "1991-07-01"
+                ],
+                "title": [
+                    "Trailblazer"
+                ],
+                "media": [
+                    "Audio CD"
+                ],
+                "tracks": [
+                    "Carnage",
+                    "Fool",
+                    "Box",
+                    "Skin Deep",
+                    "Just Perfect",
+                    "Postage",
+                    "Copping Z",
+                    "She's My Ex",
+                    "Man-O-Steel",
+                    "Paper Tiger",
+                    "Sex In The Way",
+                    "Check One",
+                    "Hate To Love",
+                    "Gnutheme"
+                ],
+                "version": [
+                    "Live"
+                ]
+            },
+            "title": "Trailblazer",
+            "alt": "https://music.douban.com/subject/10590546/",
+            "id": "10590546"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 1,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "All"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com/spic/s8871183.jpg",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "Punk"
+                },
+                {
+                    "count": 1,
+                    "name": "Pop-Punk"
+                }
+            ],
+            "mobile_link": "https://m.douban.com/music/subject/10519807/",
+            "attrs": {
+                "publisher": [
+                    "Cruz Records"
+                ],
+                "singer": [
+                    "All"
+                ],
+                "pubdate": [
+                    "1994-08-16"
+                ],
+                "title": [
+                    "Percolater"
+                ],
+                "media": [
+                    "Audio CD"
+                ],
+                "tracks": [
+                    "Charligan",
+                    "Nothin'",
+                    "Dot",
+                    "Nobody's",
+                    "Wonder",
+                    "Minute",
+                    "Birds",
+                    "Empty",
+                    "MO. 63",
+                    "Egg Timer",
+                    "Gnugear (Hot)",
+                    "Hotplate",
+                    "Hey Bug",
+                    "Breathe"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "Percolater",
+            "alt": "https://music.douban.com/subject/10519807/",
+            "id": "10519807"
+        }
+    ]
+}

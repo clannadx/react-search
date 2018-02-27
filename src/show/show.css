@@ -1,0 +1,48 @@
+.datashow{
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+}
+.header{
+    height: 0.8rem;
+    width: 100%;
+    background-color: #ff7200;
+    line-height: 0.8rem;
+    text-align: center;
+    color: #fff;
+    font-size: 0.24rem;
+    padding: 0 0.2rem;
+
+}
+.header .left{
+    float:left;
+    line-height: 1rem;
+}
+.header .left span{
+    width: 0.2rem;
+    height: 0.36rem;
+    display: inline-block;
+    background:url('./return.png') no-repeat;
+    background-size: 0.2rem 0.36rem;
+    padding: 5px;
+}
+.foreword{
+    font-size: 0.24rem;
+    padding: 0.18rem;
+    text-align: justify;
+    line-height: 0.36rem;
+}
+.foreword span{
+    font-size: 0.34rem;
+}
+.show{
+    display: block;
+}
+.show-item{
+    padding: 0.2rem;
+}
