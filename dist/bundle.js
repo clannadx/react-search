@@ -23216,7 +23216,7 @@ exports = module.exports = __webpack_require__(21)(undefined);
 
 
 // module
-exports.push([module.i, "body,\r\nh1,\r\nh2,\r\nh3,\r\nh4,\r\nh5,\r\nh6,\r\np,\r\ndl,\r\ndd {\r\n  margin: 0;\r\n  -webkit-text-size-adjust: 100%;\r\n  font-family: Helvetica sans-serif;\r\n}\r\n*{padding: 0;margin: 0;}\r\nul,\r\nol {\r\n  margin: 0;\r\n  padding: 0;\r\n  list-style: none;\r\n}\r\nimg {\r\n  display: block;\r\n}\r\n.clearfix:after{content:\"\"; display:block; visibility:hidden; height:0; clear:both;}\r\na {\r\n  text-decoration: none;\r\n \r\n}\r\na,\r\ninput,\r\nbutton,select {\r\n  -webkit-tap-highlight-color:transparent;\r\n  -webkit-appearance: none;\r\n  outline: none;\r\n}\r\n\r\n*{box-sizing:border-box;}\r\n.app{\r\n    padding: 0.2rem;\r\n}", ""]);
+exports.push([module.i, "body,\r\nh1,\r\nh2,\r\nh3,\r\nh4,\r\nh5,\r\nh6,\r\np,\r\ndl,\r\ndd {\r\n  margin: 0;\r\n  -webkit-text-size-adjust: 100%;\r\n  font-family: Helvetica sans-serif;\r\n}\r\n*{padding: 0;margin: 0;}\r\nul,\r\nol {\r\n  margin: 0;\r\n  padding: 0;\r\n  list-style: none;\r\n}\r\nimg {\r\n  display: block;\r\n}\r\n.clearfix:after{content:\"\"; display:block; visibility:hidden; height:0; clear:both;}\r\na {\r\n  text-decoration: none;\r\n \r\n}\r\na,\r\ninput,\r\nbutton,select,.f-item {\r\n  -webkit-tap-highlight-color:transparent;\r\n  -webkit-appearance: none;\r\n  outline: none;\r\n}\r\n\r\n*{box-sizing:border-box;}\r\n.app{\r\n    padding: 0.2rem;\r\n}", ""]);
 
 // exports
 
@@ -23434,7 +23434,7 @@ exports = module.exports = __webpack_require__(21)(undefined);
 
 
 // module
-exports.push([module.i, ".input-container{\r\n    width: 100%;\r\n    font-size: 0.24rem;\r\n    margin-bottom: 0.4rem;\r\n}\r\n.form-control{\r\n    border: 1px solid #e5e5e5;\r\n    height: 0.8rem;\r\n    padding-left: 0.38rem;\r\n    width: 80%;\r\n    color: #666;\r\n\r\n}\r\n.input-container button{\r\n    width: 20%;\r\n    height: 0.8rem;\r\n    text-align: center;\r\n    line-height: 0.8rem;\r\n    border: 0 none;\r\n    background-color: #ff7200;\r\n    color: #fff;\r\n}\r\n", ""]);
+exports.push([module.i, ".input-container{\r\n    width: 100%;\r\n    font-size: 0.24rem;\r\n    margin-bottom: 0.4rem;\r\n}\r\n.form-control{\r\n    border: 1px solid #e5e5e5;\r\n    height: 0.8rem;\r\n    padding-left: 0.38rem;\r\n    width: 80%;\r\n    color: #666;\r\n    border-radius: 0;\r\n\r\n}\r\n.input-container button{\r\n    width: 20%;\r\n    height: 0.8rem;\r\n    text-align: center;\r\n    line-height: 0.8rem;\r\n    border: 0 none;\r\n    background-color: #ff7200;\r\n    color: #fff;\r\n}\r\n", ""]);
 
 // exports
 
